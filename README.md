@@ -66,7 +66,7 @@ The following enterprise platforms offer managed cloud infrastructure, automated
 
 ## 🔓 Open-Source GitHub Repositories (Ranked by Stars)
 
-The open-source domain provides analytical libraries, deep learning architectures, Bayesian fusion engines, and full-stack IIoT platforms. Sorted in **descending order by GitHub Stars_Count**:
+The open-source domain provides analytical libraries, deep learning architectures, Bayesian fusion engines, and full-stack IIoT platforms. Sorted in **descending order by GitHub_Stars_Count**:
 
 - **[PyOD (Python Outlier Detection)](https://github.com/yzhao062/pyod)** [![GitHub_Stars](https://img.shields.io/github/stars/yzhao062/pyod?style=social&color=white)](https://github.com/yzhao062/pyod/stargazers) — Comprehensive Python toolkit for detecting anomalies and outliers in industrial multivariate sensor telemetry. Includes 40+ algorithms (Autoencoders, Isolation Forests, VAEs, PCA) tailored for machine fault detection.
 - **[sktime](https://github.com/sktime/sktime)** [![GitHub_Stars](https://img.shields.io/github/stars/sktime/sktime?style=social&color=white)](https://github.com/sktime/sktime/stargazers) — Unified machine learning framework for time series analysis, telemetry forecasting, and industrial sensor anomaly classification.
