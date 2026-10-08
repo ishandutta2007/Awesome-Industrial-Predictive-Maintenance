@@ -1,0 +1,2 @@
+# Awesome-Industrial-Predictive-Maintenance
+
