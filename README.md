@@ -42,65 +42,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+> **Sector Overview**: The global industrial predictive maintenance market is estimated at **$10B–$20B in 2026** and projected to reach **$60B–$200B+ by 2033–2035 (CAGR ~25–30%)**. The market is **moderately to highly fragmented** (top 5 vendors hold ~32–38% market share) rather than a winner-take-all ecosystem, driven by high domain specificity across asset types, complex on-prem/edge integration requirements, and diverse OEM sensor ecosystems.
 
+| Product / Platform | Company Size (Valuation / Revenue) | Specific Starting Pricing | Free Tier / Free Trial Limit | Target Use Case & Key Strengths |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Amazon Lookout for Equipment](https://aws.amazon.com/lookout-for-equipment/)** | **$2.0 Trillion** Market Cap (AWS parent; ~$90B+ AWS Rev.) | **$0.10/GB** data ingestion + **$0.75/hr** model training + **$0.25/metric-hr** inference | **1st month free trial** (up to 50 GB ingestion, 250 training hours, 168 hours scheduled inference) | AWS-native ML anomaly detection for industrial equipment sensor streams |
+| **[Senseye](https://www.senseye.io/)** | **$150 Billion** Market Cap (Siemens AG parent; ~$85B Rev.) | **~$1,500 / month** (~$18,000/yr base coverage for 20 assets) | **30-day proof-of-concept trial** (up to 10 connected telemetry sensor streams) | Automated condition monitoring for manufacturing equipment fleets |
+| **[AVEVA Predictive Analytics](https://www.aveva.com/)** | **$140 Billion** Market Cap (Schneider Electric parent; ~$38B Rev.) | **~$2,500 / month** (~$30,000/yr entry AVEVA Connect subscription) | **30-day free trial** on AVEVA Connect (limited to 5 rotating equipment models) | Early fault detection & RUL estimation for process industries |
+| **[GE Digital APM](https://www.ge.com/digital/applications/asset-performance-management)** | **$75 Billion** Market Cap (GE Vernova parent; ~$35B Rev.) | **~$10,000 / month** (~$120,000/yr enterprise base node deployment) | **30-day interactive sandbox trial** (up to 5 simulated asset models & sample telemetry) | Enterprise asset performance management for energy and heavy industry |
+| **[AspenTech Mtell](https://www.aspentech.com/)** | **$65 Billion** Market Cap (Emerson Electric parent; ~$17B Rev.) | **~$2,500 / month** (~$30,000/yr starting aspenOne license) | **30-day evaluation sandbox trial** (pre-loaded process data & model builder sandbox) | Pattern-recognition anomaly detection for continuous process manufacturing |
+| **[C3 AI Predictive Maintenance](https://c3.ai/)** | **$1.75 Billion** Market Cap (NYSE: AI; ~$310M Rev.) | **$0.55 / vCPU-hour** (AWS Marketplace pay-as-you-go; ~$250k/yr enterprise contract) | **14-day free trial** on C3 AI Studio (1 workspace & sample operational datasets) | Pre-built enterprise AI applications for defense & large manufacturing fleets |
+| **[SparkCognition](https://www.sparkcognition.com/)** | **$1.4 Billion** Valuation (Privately held Unicorn; ~$50M+ Rev.) | **~$4,000 / month** (~$48,000/yr baseline enterprise contract) | **30-day enterprise sandbox trial** (1 streaming data pipeline, up to 5 asset nodes) | AI-powered analytics for defense, energy, and industrial asset optimization |
+| **[Augury](https://augury.com/)** | **$1.2 Billion** Valuation (Privately held Unicorn; ~$155M Rev.) | **~$1,500 / month** (~$18,000/yr hardware + SaaS bundle for ~10 assets) | **30-day risk-free pilot trial** (up to 4 machine trains with hardware installed) | End-to-end machine health platform for rotating equipment |
+| **[SymphonyAI Industrial](https://www.symphonyai.com/)** | **$1.0 Billion** Valuation (Privately held; ~$100M+ Rev.) | **~$1,666 / month** (~$20,000/yr starting SaaS platform) | **30-day guided sandbox trial** (3 machine profiles & 100 hours signal ingestion) | Industrial AI asset performance and predictive maintenance workflows |
+| **[Uptake](https://www.uptake.com/)** | **$1.0 Billion** Valuation (Privately held Unicorn; ~$45M Rev.) | **~$1,250 / month** (~$15,000/yr per site baseline tier) | **14-day free trial** (pre-loaded fleet telemetry datasets and anomaly dashboards) | Heavy industry asset reliability and failure prevention analytics |
 
-- **[Amazon Lookout for Equipment](https://aws.amazon.com/lookout-for-equipment/)**  
-
-  **AWS's managed predictive maintenance service** — uses machine learning to detect abnormal equipment behavior and predict failures . **Ingests sensor data from industrial equipment** without requiring ML expertise . **Best for AWS-native industrial monitoring** .
-
-
-
-- **[C3 AI Predictive Maintenance](https://c3.ai/)**  
-
-  **Enterprise AI application for predictive maintenance** — pre-built models and connectors for industrial assets . **Best for large-scale enterprise deployments** .
-
-
-
-- **[GE Digital APM](https://www.ge.com/digital/applications/asset-performance-management)**  
-
-  **Asset Performance Management platform** — predictive analytics, reliability, and maintenance optimization . **Best for industrial enterprises** .
-
-
-
-- **[AVEVA Predictive Analytics](https://www.aveva.com/)**  
-
-  **Predictive maintenance software** — early fault detection and RUL estimation for rotating equipment . **Best for process industries** .
-
-
-
-- **[Augury](https://augury.com/)**  
-
-  **Machine health platform** — vibration, temperature, and magnetic data with AI diagnosis . **Best for rotating equipment monitoring** .
-
-
-
-- **[AspenTech Mtell](https://www.aspentech.com/)**  
-
-  **Industrial AI platform** — predictive maintenance and anomaly detection for complex processes . **Best for process manufacturing** .
-
-
-
-- **[SparkCognition](https://www.sparkcognition.com/)**  
-
-  **AI-powered industrial analytics** — predictive maintenance and asset optimization . **Best for defense and industrial applications** .
-
-
-
-- **[SymphonyAI Industrial](https://www.symphonyai.com/)**  
-
-  **AI-driven predictive maintenance and asset performance** . **Best for industrial operations** .
-
-
-
-- **[Uptake](https://www.uptake.com/)**  
-
-  **Industrial AI platform** — predictive maintenance and asset reliability . **Best for heavy industry** .
-
-
-
-- **[Senseye](https://www.senseye.io/)**  
-
-  **Predictive maintenance platform** — automated condition monitoring and failure prediction . **Best for manufacturing and industrial equipment** .
 
 
 
